@@ -1,1 +1,4 @@
 # Cheetay-App
+Our Project name is Cheetay app. As you know that the cheetay app is the Grocery and Food store, so our project is to build an app in which different restaurants are shown to the us and what food they want to sell on restaurant. A user come on this and choose restaurant first and then he selects what he wants to eat. After this a type of bill will appeared which shows the total amount, delivery fee and much more. In the end the user give rating.
+We built this project in a very simple way. We use structures, functions, and array to get the best result. It is important to that function calls which is user trying to get their product. We used arrays to the product name that user want to get. 
+Overall, in this assignment the user gets their product easily and not other products are shown which user would think to search just those products are shown which they want to get. 
